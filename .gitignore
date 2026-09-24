@@ -1,0 +1,25 @@
+# Secrets and credentials
+.env
+.env.*
+*.secret
+*.secrets
+*.key
+*.pem
+*.pfx
+*.p12
+
+# PowerShell
+*.clixml
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
